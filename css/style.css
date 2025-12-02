@@ -53,9 +53,29 @@
 .image-row img {
   width: 28%;
   border: 1px solid #333;
+
 }
 
 .atlas-embed {
   margin-top: 55px;
   text-align: left;
+  
+}
+.chamber {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    max-width: 600px;
+}
+.chamber h2 {
+    color: #ffd700;
+}
+.chamber h3 {
+    color: #ccc;
+}
+#countdown {
+    font-size: 1.2em;
+    color: #fff;
+    margin: 10px 0;
 }
