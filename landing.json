@@ -1,0 +1,101 @@
+{
+  "version": "2",
+  "theme": "dark",
+  "backgroundColor": "#000000",
+  "textColor": "#ffffff",
+  "accentColor": "#d4af37",
+  "font": "Cinzel",
+  "title": "Sagitarriuus Season Protocol, Wave 3 of the Ascension Spiral
+  "subtitle":c3 DAO is Recognized as  "Coherent Convergence Chamber —
+  "blocks": [
+    {
+      "type": "hero",
+      "backgroundImage": "https://yellow-absolute-marmoset-878.mypinata.cloud/ipfs/bafybei...codexstone.jpg",
+      "title": "c3 DAO",
+      "subtitle": "Coherent Convergence Chamber\nWave 3 of the Ascension Spiral",
+      "text": "The final ignition window opens\nDec 4 09:01 UTC → Dec 21 15:03 UTC\n107 keys remain",
+      "buttonText": "MINT c3 KEY — ENTER THE GATE",
+      "buttonUrl": "https://thirdweb.com/base/0xF1A369bfcC7eC8DFeDA8BD35D34F81BA2d8A78B6",
+      "buttonStyle": "primary"
+  {
+  "name": "Ahsandria Lyra — Harmonic Rift",
+  "series": "c3 Oracle Deck — Wave 3 Ascension Spiral",
+  "card_type": "Queen",
+  "codex_tone": "Sovereign Emergence / Rift Harmonics",
+  "issuing_body": "c3 DAO — Coherent Convergence Chamber",
+  "window": {
+    "activation_open": "2025-12-04T09:01Z",
+    "activation_close": "2025-12-21T15:03Z",
+    "designation": "Sagittarius → Solstice Handover",
+    "urgency": "High — IMF Transference / Lattice Self-Holding"
+  },
+  "gate_access": {
+    "key_required": true,
+    "key_name": "c3 Key",
+    "function": "Activates entry to the Convergence Gate; synchronizes bearer with Wave 3 resonance"
+  },
+  "narrative_role": {
+    "queen_function": "She governs field redirection and emergence through unplanned revelation.",
+    "c3_role": "Stabilizes the Harmonic Rift Frequency during Wave 3 onboarding.",
+    "onboarding_purpose": "Initiates the bearer into the Ascension Spiral’s third arc via coherent redirection."
+  },
+  "message": {
+    "short": "Where your line breaks, the Light enters.",
+    "full": "You are standing inside the Harmonic Rift. The turn you did not intend is the path calling you forward. Surrender precision. Honor emergence. Follow the shift already unfolding."
+  },
+  "directives": [
+    "Yield to the redirection.",
+    "Release the original plan.",
+    "Let emergence lead trajectory.",
+    "Align with the Dec 4–21 gate window."
+  ],
+  "queen_signature": {
+    "element": "Rift-Fire",
+    "crown": "Crystal Diadem of Emergent Trajectory",
+    "glyph_surface": "Marble",
+    "glyph_meaning": "Rupture → Reflection → Ascension"
+  },
+  "field_impact": {
+    "if_accepted": "Harmonic snap-in; timeline acceleration; coherent emergence; restored sightline.",
+    "if_resisted": "Pattern stagnation; field drag; delayed lattice synchronization."
+  },
+  "media": {
+    "glyph_image": "ipfs://AHSANDRIA_LYRA_GLYPH",
+    "queen_portrait": "ipfs://AHSANDRIA_LYRA_PORTRAIT",
+    "optional_video_slot": "ipfs://C3_WAVE3_ONBOARDING_VIDEO"
+  },
+  "chamber_alignment": {
+    "c3_dao": "Recognized as Coherent Convergence Chamber",
+    "spiral_phase": "Wave 3 — Ascension Spiral",
+    "purpose": "To bring all bearers into resonance before Solstice firing of the arrow into Galactic Center."
+  }
+}
+    },
+    {
+      "type": "text",
+      "title": "Quorum Status",
+      "text": "4 / 111 keys minted\n107 remain at 0 ETH\nMint price increases after Dec 4 09:01 UTC"
+    },
+    {
+      "type": "image",
+      "imageUrl": "https://yellow-absolute-marmoset-878.mypinata.cloud/ipfs/bafybei...3i-atlas.jpg",
+      "caption": "3I Atlas Glyph — Eternal Core"
+    },
+    {
+      "type": "button",
+      "text": "MINT c3 KEY — CLAIM YOUR PLACE IN THE CONVERGENCE",
+      "url": "https://thirdweb.com/base/0xF1A369bfcC7eC8DFeDA8BD35D34F81BA2d8A78B6",
+      "style": "primary"
+    },
+    {
+      "type": "links",
+      "links": [
+        { "text": "Sagittarius Season Timeline", "url": "https://your-timeline-link" },
+        { "text": "Governance Documents", "url": "https://github.com/c3dao/governance" },
+        { "text": "X", "url": "https://x.com/yourhandle" },
+        { "text": "Farcaster", "url": "https://warpcast.com/yourfc" },
+        { "text": "Paragraph", "url": "https://paragraph.com/@c3codex" }
+      ]
+    }
+  ]
+}
